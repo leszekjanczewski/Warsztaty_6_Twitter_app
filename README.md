@@ -1,1 +1,1 @@
-# Warsztaty_6
+# Warsztaty 6 - Twitter aplication
