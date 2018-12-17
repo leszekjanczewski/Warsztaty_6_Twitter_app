@@ -89,3 +89,5 @@ modules.xml
 
 # End of https://www.gitignore.io/api/intellij+all
 >>>>>>> d34500a9634f9bf13b3f77105ea2b381ce2bcab8
+/target/
+/src/test/
